@@ -2,4 +2,12 @@ h1 {
     font-size: 40px;
     color:mediumorchid;
     font-style: italic;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+p {
+    /* add a custom google font family */
+    /* change the size */
+    /* change the line  height */
+    /* change the color */
 }
